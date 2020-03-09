@@ -1,385 +1,303 @@
 #EXTM3U
-#EXTINF:-1,ES: Telecinco HD
-http://king-box.club:80/bmoore1/bmoore1/4155
-#EXTINF:-1,ES: #0 FHD
-http://king-box.club:80/bmoore1/bmoore1/11204
-#EXTINF:-1,ES: #0
-http://king-box.club:80/bmoore1/bmoore1/4200
-#EXTINF:-1,ES: La 1 FHD
-http://king-box.club:80/bmoore1/bmoore1/2886
-#EXTINF:-1,ES: La 1
-http://king-box.club:80/bmoore1/bmoore1/3144
-#EXTINF:-1,ES: La 2
-http://king-box.club:80/bmoore1/bmoore1/3145
+#EXTINF:-1,ES: TVE La 1
+http://config.streamstv.me:8080/Gandalf/gandalf/26354
+#EXTINF:-1,ES: TVE La 1 FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26357
+#EXTINF:-1,ES: TVE LA 2
+http://config.streamstv.me:8080/Gandalf/gandalf/26297
+#EXTINF:-1,ES: Antena 3
+http://config.streamstv.me:8080/Gandalf/gandalf/26416
 #EXTINF:-1,ES: Antena 3 FHD
-http://king-box.club:80/bmoore1/bmoore1/76912
-#EXTINF:-1,ES: Antena 3 HD
-http://king-box.club:80/bmoore1/bmoore1/3319
+http://config.streamstv.me:8080/Gandalf/gandalf/26415
+#EXTINF:-1,ES: Cuatro
+http://config.streamstv.me:8080/Gandalf/gandalf/26387
 #EXTINF:-1,ES: Cuatro FHD
-http://king-box.club:80/bmoore1/bmoore1/114845
-#EXTINF:-1,ES: Cuatro HD
-http://king-box.club:80/bmoore1/bmoore1/4228
-#EXTINF:-1,ES: Telecinco FHD
-http://king-box.club:80/bmoore1/bmoore1/114861
+http://config.streamstv.me:8080/Gandalf/gandalf/26386
+#EXTINF:-1,ES: Telecinco
+http://config.streamstv.me:8080/Gandalf/gandalf/26282
 #EXTINF:-1,ES: Telecinco HD
-http://king-box.club:80/bmoore1/bmoore1/4155
-#EXTINF:-1,ES: La Sexta FHD
-http://king-box.club:80/bmoore1/bmoore1/114849
+http://config.streamstv.me:8080/Gandalf/gandalf/26280
+#EXTINF:-1,ES: Telecinco FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26281
 #EXTINF:-1,ES: La Sexta HD
-http://king-box.club:80/bmoore1/bmoore1/1761
-#EXTINF:-1,ES: Cosmopolitan FHD
-http://king-box.club:80/bmoore1/bmoore1/114782
-#EXTINF:-1,ES: Cosmopolitan HD
-http://king-box.club:80/bmoore1/bmoore1/4180
-#EXTINF:-1,ES: Neox
-http://king-box.club:80/bmoore1/bmoore1/5959
-#EXTINF:-1,ES: Nova
-http://king-box.club:80/bmoore1/bmoore1/4183
-#EXTINF:-1,ES: Mega TV
-http://king-box.club:80/bmoore1/bmoore1/5960
-#EXTINF:-1,ES: FDF
-http://king-box.club:80/bmoore1/bmoore1/5961
-#EXTINF:-1,ES: Divinity
-http://king-box.club:80/bmoore1/bmoore1/4236
-#EXTINF:-1,ES: Energy
-http://king-box.club:80/bmoore1/bmoore1/4223
-#EXTINF:-1,ES: Canal Sur FHD
-http://king-box.club:80/bmoore1/bmoore1/114784
-#EXTINF:-1,ES: Canal Sur Andalucia TV
-http://king-box.club:80/bmoore1/bmoore1/5962
-#EXTINF:-1,ES: Odisea
-http://king-box.club:80/bmoore1/bmoore1/3019
-#EXTINF:-1,ES: Clan TVE
-http://king-box.club:80/bmoore1/bmoore1/1476
-#EXTINF:-1,ES: La Otra
-http://king-box.club:80/bmoore1/bmoore1/4163
-#EXTINF:-1,ES: Ten
-http://king-box.club:80/bmoore1/bmoore1/4221
+http://config.streamstv.me:8080/Gandalf/gandalf/26352
+#EXTINF:-1,ES: LA Sexta FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26356
+#EXTINF:-1,ES: #0 FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26428
+#EXTINF:-1,ES: #0 HD
+http://config.streamstv.me:8080/Gandalf/gandalf/26427
 #EXTINF:-1,ES: 13 TV
-http://king-box.club:80/bmoore1/bmoore1/4161
-#EXTINF:-1,ES: TV Madrid
-http://king-box.club:80/bmoore1/bmoore1/4156
-#EXTINF:-1,ES: TV3 Catalunya HD
-http://king-box.club:80/bmoore1/bmoore1/113932
-#EXTINF:-1,ES: Mezzo Live
-http://king-box.club:80/bmoore1/bmoore1/4201
-#EXTINF:-1,ES: MTV Espana
-http://king-box.club:80/bmoore1/bmoore1/4159
-#EXTINF:-1,ES: Extremadura TV
-http://king-box.club:80/bmoore1/bmoore1/18430
-#EXTINF:-1,ES: Dark
-http://king-box.club:80/bmoore1/bmoore1/114778
-#EXTINF:-1,ES: ETB 1
-http://king-box.club:80/bmoore1/bmoore1/114781
-#EXTINF:-1,ES: TV Galicia
-http://king-box.club:80/bmoore1/bmoore1/4162
-#EXTINF:-1,ES: Mega HD (Spain)
-http://king-box.club:80/bmoore1/bmoore1/4212
-#EXTINF:-1,ES: Navarra Tv
-http://king-box.club:80/bmoore1/bmoore1/1478
-#EXTINF:-1,ES: CMM HD
-http://king-box.club:80/bmoore1/bmoore1/1482
-#EXTINF:-1,ES: HIT TV
-http://king-box.club:80/bmoore1/bmoore1/114779
-#EXTINF:-1,ES: TVE Internacional
-http://king-box.club:80/bmoore1/bmoore1/70293
-#EXTINF:-1,ES: Canal 24 Horas
-http://king-box.club:80/bmoore1/bmoore1/4203
-#EXTINF:-1,ES: Intereconomia
-http://king-box.club:80/bmoore1/bmoore1/114780
-#EXTINF:-1,-------- ES Kids ----------
-http://king-box.club:80/bmoore1/bmoore1/5062
-#EXTINF:-1,ES: Disney Junior
-http://king-box.club:80/bmoore1/bmoore1/4225
-#EXTINF:-1,ES: Disney XD
-http://king-box.club:80/bmoore1/bmoore1/4224
-#EXTINF:-1,ES: Disney Channel
-http://king-box.club:80/bmoore1/bmoore1/4226
-#EXTINF:-1,ES: Baby TV
-http://king-box.club:80/bmoore1/bmoore1/4187
-#EXTINF:-1,ES: Canal Panda
-http://king-box.club:80/bmoore1/bmoore1/1473
-#EXTINF:-1,ES: Boing
-http://king-box.club:80/bmoore1/bmoore1/4240
-#EXTINF:-1,ES: Nick Jr.
-http://king-box.club:80/bmoore1/bmoore1/4214
-#EXTINF:-1,ES: Nickelodeon FHD
-http://king-box.club:80/bmoore1/bmoore1/114858
-#EXTINF:-1,ES: Nickelodeon HD
-http://king-box.club:80/bmoore1/bmoore1/4213
-#EXTINF:-1,ES: Paw Patrol TV
-http://king-box.club:80/bmoore1/bmoore1/126647
-#EXTINF:-1,ES: Peppa Pig TV
-http://king-box.club:80/bmoore1/bmoore1/136517
-#EXTINF:-1,---------- ES Docu ----------
-http://king-box.club:80/bmoore1/bmoore1/5063
-#EXTINF:-1,ES: Viajar HD
-http://king-box.club:80/bmoore1/bmoore1/4216
-#EXTINF:-1,ES: Discovery Channel HD
-http://king-box.club:80/bmoore1/bmoore1/4179
-#EXTINF:-1,ES: Discovery Dmax
-http://king-box.club:80/bmoore1/bmoore1/1477
-#EXTINF:-1,ES: Dkiss
-http://king-box.club:80/bmoore1/bmoore1/1471
-#EXTINF:-1,ES: National Geographic FHD
-http://king-box.club:80/bmoore1/bmoore1/4215
-#EXTINF:-1,ES: National Geographic
-http://king-box.club:80/bmoore1/bmoore1/4158
-#EXTINF:-1,ES: Nat Geo Wild FHD
-http://king-box.club:80/bmoore1/bmoore1/14453
-#EXTINF:-1,ES: Nat Geo Wild
-http://king-box.club:80/bmoore1/bmoore1/4175
+http://config.streamstv.me:8080/Gandalf/gandalf/26426
 #EXTINF:-1,ES: A&E
-http://king-box.club:80/bmoore1/bmoore1/3788
-#EXTINF:-1,ES: Cocina FHD
-http://king-box.club:80/bmoore1/bmoore1/114783
-#EXTINF:-1,ES: Cocina
-http://king-box.club:80/bmoore1/bmoore1/4186
-#EXTINF:-1,ES: De Casa
-http://king-box.club:80/bmoore1/bmoore1/3146
-#EXTINF:-1,ES: Iberalia TV
-http://king-box.club:80/bmoore1/bmoore1/4178
-#EXTINF:-1,ES: Crimen E Investigacion
-http://king-box.club:80/bmoore1/bmoore1/22412
-#EXTINF:-1,ES: Historia
-http://king-box.club:80/bmoore1/bmoore1/4218
-#EXTINF:-1,ES: Caza y Pesca FHD
-http://king-box.club:80/bmoore1/bmoore1/4230
-#EXTINF:-1,ES: Be Mad FHD
-http://king-box.club:80/bmoore1/bmoore1/114785
-#EXTINF:-1,ES: Be Mad HD
-http://king-box.club:80/bmoore1/bmoore1/1491
-#EXTINF:-1,ES: Aragon TV
-http://king-box.club:80/bmoore1/bmoore1/1488
-#EXTINF:-1,--------- ES Cinema ----------
-http://king-box.club:80/bmoore1/bmoore1/5064
-#EXTINF:-1,ES: M. Accion FHD
-http://king-box.club:80/bmoore1/bmoore1/114850
-#EXTINF:-1,ES: M. Accion
-http://king-box.club:80/bmoore1/bmoore1/4235
-#EXTINF:-1,ES: M. Estrenos FHD
-http://king-box.club:80/bmoore1/bmoore1/114853
-#EXTINF:-1,ES: M. Estrenos
-http://king-box.club:80/bmoore1/bmoore1/4238
-#EXTINF:-1,ES: M. Comedia FHD
-http://king-box.club:80/bmoore1/bmoore1/114851
-#EXTINF:-1,ES: M. Comedia
-http://king-box.club:80/bmoore1/bmoore1/3376
-#EXTINF:-1,ES: M. Drama FHD
-http://king-box.club:80/bmoore1/bmoore1/114852
-#EXTINF:-1,ES: M. Drama
-http://king-box.club:80/bmoore1/bmoore1/4227
-#EXTINF:-1,ES: M. Cine Doc & Roll FHD
-http://king-box.club:80/bmoore1/bmoore1/114856
-#EXTINF:-1,ES: M. Cine Doc & Roll HD
-http://king-box.club:80/bmoore1/bmoore1/3328
-#EXTINF:-1,ES: M. Series FHD
-http://king-box.club:80/bmoore1/bmoore1/114854
-#EXTINF:-1,ES: M. Series
-http://king-box.club:80/bmoore1/bmoore1/4232
-#EXTINF:-1,ES: M. Series Mania FHD
-http://king-box.club:80/bmoore1/bmoore1/114855
-#EXTINF:-1,ES: M. Series Mania HD
-http://king-box.club:80/bmoore1/bmoore1/3375
-#EXTINF:-1,ES: M. Cine Ñ
-http://king-box.club:80/bmoore1/bmoore1/3326
-#EXTINF:-1,ES: M. Disney
-http://king-box.club:80/bmoore1/bmoore1/114857
-#EXTINF:-1,ES: Hollywood FHD
-http://king-box.club:80/bmoore1/bmoore1/114848
-#EXTINF:-1,ES: Hollywood HD
-http://king-box.club:80/bmoore1/bmoore1/1991
-#EXTINF:-1,ES: SyFy FHD
-http://king-box.club:80/bmoore1/bmoore1/4157
-#EXTINF:-1,ES: SyFy
-http://king-box.club:80/bmoore1/bmoore1/4210
-#EXTINF:-1,ES: Fox FHD
-http://king-box.club:80/bmoore1/bmoore1/114846
-#EXTINF:-1,ES: Fox HD
-http://king-box.club:80/bmoore1/bmoore1/4198
-#EXTINF:-1,ES: Fox Life FHD
-http://king-box.club:80/bmoore1/bmoore1/114847
-#EXTINF:-1,ES: Fox Life HD
-http://king-box.club:80/bmoore1/bmoore1/4219
-#EXTINF:-1,ES: Paramount Channel
-http://king-box.club:80/bmoore1/bmoore1/4220
-#EXTINF:-1,ES: Comedy Central FHD
-http://king-box.club:80/bmoore1/bmoore1/114844
-#EXTINF:-1,ES: Comedy Central
-http://king-box.club:80/bmoore1/bmoore1/4229
-#EXTINF:-1,ES: TNT FHD
-http://king-box.club:80/bmoore1/bmoore1/114862
-#EXTINF:-1,ES: TNT
-http://king-box.club:80/bmoore1/bmoore1/4208
-#EXTINF:-1,ES: TCM FHD
-http://king-box.club:80/bmoore1/bmoore1/114860
-#EXTINF:-1,ES: TCM
-http://king-box.club:80/bmoore1/bmoore1/4209
-#EXTINF:-1,ES: AXN FHD
-http://king-box.club:80/bmoore1/bmoore1/4202
-#EXTINF:-1,ES: AXN
-http://king-box.club:80/bmoore1/bmoore1/4242
-#EXTINF:-1,ES: AXN White FHD
-http://king-box.club:80/bmoore1/bmoore1/114842
-#EXTINF:-1,ES: AXN White
-http://king-box.club:80/bmoore1/bmoore1/4241
-#EXTINF:-1,ES: Calle 13 FHD
-http://king-box.club:80/bmoore1/bmoore1/114843
-#EXTINF:-1,ES: Calle 13 HD
-http://king-box.club:80/bmoore1/bmoore1/4239
-#EXTINF:-1,ES: AMC FHD
-http://king-box.club:80/bmoore1/bmoore1/114841
+http://config.streamstv.me:8080/Gandalf/gandalf/26424
 #EXTINF:-1,ES: AMC
-http://king-box.club:80/bmoore1/bmoore1/1492
-#EXTINF:-1,ES: A3 Series
-http://king-box.club:80/bmoore1/bmoore1/4217
-#EXTINF:-1,ES: Sundance
-http://king-box.club:80/bmoore1/bmoore1/114859
-#EXTINF:-1,---------- ES Tequilla ---------
-http://king-box.club:80/bmoore1/bmoore1/5066
-#EXTINF:-1,ES: Taquilla 1
-http://king-box.club:80/bmoore1/bmoore1/4173
-#EXTINF:-1,ES: Taquilla 2
-http://king-box.club:80/bmoore1/bmoore1/4171
-#EXTINF:-1,ES: Taquilla 3
-http://king-box.club:80/bmoore1/bmoore1/4170
-#EXTINF:-1,ES: Taquilla 4
-http://king-box.club:80/bmoore1/bmoore1/4169
-#EXTINF:-1,ES: Taquilla 5
-http://king-box.club:80/bmoore1/bmoore1/4168
-#EXTINF:-1,ES: Taquilla 6
-http://king-box.club:80/bmoore1/bmoore1/4167
-#EXTINF:-1,ES: Taquilla 7
-http://king-box.club:80/bmoore1/bmoore1/4166
-#EXTINF:-1,ES: Taquilla 8
-http://king-box.club:80/bmoore1/bmoore1/4165
-#EXTINF:-1,ES: Taquilla 9
-http://king-box.club:80/bmoore1/bmoore1/4164
-#EXTINF:-1,ES: Taquilla 10
-http://king-box.club:80/bmoore1/bmoore1/4172
-#EXTINF:-1,--------- Spain Sports ----------
-http://king-box.club:80/bmoore1/bmoore1/2731
-#EXTINF:-1,ES: La Liga BAR FHD
-http://king-box.club:80/bmoore1/bmoore1/7856
-#EXTINF:-1,ES: La Liga
-http://king-box.club:80/bmoore1/bmoore1/3312
-#EXTINF:-1,ES: M. La Liga FHD
-http://king-box.club:80/bmoore1/bmoore1/7869
-#EXTINF:-1,ES: Bein Sport La Liga HD
-http://king-box.club:80/bmoore1/bmoore1/6318
-#EXTINF:-1,ES: Liga De Campeones FHD
-http://king-box.club:80/bmoore1/bmoore1/7870
-#EXTINF:-1,ES: Liga De Campeones HD
-http://king-box.club:80/bmoore1/bmoore1/3126
-#EXTINF:-1,ES: La Liga 123 FHD
-http://king-box.club:80/bmoore1/bmoore1/114831
-#EXTINF:-1,ES: La Liga 123 HD
-http://king-box.club:80/bmoore1/bmoore1/114830
-#EXTINF:-1,ES: beIN Sports La Liga Max FHD
-http://king-box.club:80/bmoore1/bmoore1/7861
-#EXTINF:-1,ES: Deportes 1 FHD
-http://king-box.club:80/bmoore1/bmoore1/7862
-#EXTINF:-1,ES: Movistar+ Deportes 1
-http://king-box.club:80/bmoore1/bmoore1/13
-#EXTINF:-1,ES: Vamos FHD
-http://king-box.club:80/bmoore1/bmoore1/7863
-#EXTINF:-1,ES: Vamos HD
-http://king-box.club:80/bmoore1/bmoore1/4237
-#EXTINF:-1,ES: Gol HD
-http://king-box.club:80/bmoore1/bmoore1/10920
-#EXTINF:-1,ES: Gol TV
-http://king-box.club:80/bmoore1/bmoore1/6716
-#EXTINF:-1,ES: Formula 1 FHD
-http://king-box.club:80/bmoore1/bmoore1/7866
-#EXTINF:-1,ES: Formula 1 HD
-http://king-box.club:80/bmoore1/bmoore1/4176
-#EXTINF:-1,ES: Moto GP FHD
-http://king-box.club:80/bmoore1/bmoore1/7867
-#EXTINF:-1,ES: Moto GP HD
-http://king-box.club:80/bmoore1/bmoore1/3313
-#EXTINF:-1,ES: M. Golf FHD
-http://king-box.club:80/bmoore1/bmoore1/7864
-#EXTINF:-1,ES: Movistar+ Golf
-http://king-box.club:80/bmoore1/bmoore1/4233
-#EXTINF:-1,ES: Toros FHD
-http://king-box.club:80/bmoore1/bmoore1/7865
-#EXTINF:-1,ES: Toros TV
-http://king-box.club:80/bmoore1/bmoore1/14
-#EXTINF:-1,ES: Teledeporte FHD
-http://king-box.club:80/bmoore1/bmoore1/114786
-#EXTINF:-1,ES: Teledeporte
-http://king-box.club:80/bmoore1/bmoore1/4197
-#EXTINF:-1,ES: Eurosport 1 FHD
-http://king-box.club:80/bmoore1/bmoore1/114840
-#EXTINF:-1,ES: Eurosport 1 HD
-http://king-box.club:80/bmoore1/bmoore1/1493
-#EXTINF:-1,ES: Eurosport 2 HD
-http://king-box.club:80/bmoore1/bmoore1/4206
-#EXTINF:-1,ES: Real MadridTV
-http://king-box.club:80/bmoore1/bmoore1/3123
+http://config.streamstv.me:8080/Gandalf/gandalf/26422
+#EXTINF:-1,ES: AXN
+http://config.streamstv.me:8080/Gandalf/gandalf/26420
+#EXTINF:-1,ES: AXN White
+http://config.streamstv.me:8080/Gandalf/gandalf/26419
+#EXTINF:-1,ES: AXN White FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26418
+#EXTINF:-1,ES: Aragon TV
+http://config.streamstv.me:8080/Gandalf/gandalf/26414
+#EXTINF:-1,ES: Baby TV
+http://config.streamstv.me:8080/Gandalf/gandalf/26413
 #EXTINF:-1,ES: Barca TV
-http://king-box.club:80/bmoore1/bmoore1/4207
-#EXTINF:-1,ES: Sevilla FC
-http://king-box.club:80/bmoore1/bmoore1/10919
-#EXTINF:-1,ES: Multideporte
-http://king-box.club:80/bmoore1/bmoore1/10921
-#EXTINF:-1,ES: Multideporte
-http://king-box.club:80/bmoore1/bmoore1/3327
-#EXTINF:-1,ES: M. Deporte 1 FHD
-http://king-box.club:80/bmoore1/bmoore1/7860
-#EXTINF:-1,ES: Liga De Campeones 1
-http://king-box.club:80/bmoore1/bmoore1/114839
-#EXTINF:-1,ES: Liga De Campeones 2
-http://king-box.club:80/bmoore1/bmoore1/114838
-#EXTINF:-1,ES: Liga De Campeones 3
-http://king-box.club:80/bmoore1/bmoore1/114837
-#EXTINF:-1,ES: Liga De Campeones 4
-http://king-box.club:80/bmoore1/bmoore1/114836
-#EXTINF:-1,ES: Liga De Campeones 5
-http://king-box.club:80/bmoore1/bmoore1/114835
-#EXTINF:-1,ES: Liga De Campeones 6
-http://king-box.club:80/bmoore1/bmoore1/114834
-#EXTINF:-1,ES: Liga De Campeones 7
-http://king-box.club:80/bmoore1/bmoore1/114833
-#EXTINF:-1,ES: Liga De Campeones 8
-http://king-box.club:80/bmoore1/bmoore1/114832
-#EXTINF:-1,ES: La Liga 123 Multi 1
-http://king-box.club:80/bmoore1/bmoore1/114829
-#EXTINF:-1,ES: La Liga 123 Multi 2
-http://king-box.club:80/bmoore1/bmoore1/114828
-#EXTINF:-1,ES: La Liga 123 Multi 3
-http://king-box.club:80/bmoore1/bmoore1/114827
-#EXTINF:-1,ES: beIN LaLIga 1 (Event Only)
-http://king-box.club:80/bmoore1/bmoore1/7857
-#EXTINF:-1,ES: beIN LaLIga 2 (event only)
-http://king-box.club:80/bmoore1/bmoore1/7858
-#EXTINF:-1,ES: beIN LaLIga 3 (event only)
-http://king-box.club:80/bmoore1/bmoore1/7859
-#EXTINF:-1,ES: Bein La Liga Max 1 HD
-http://king-box.club:80/bmoore1/bmoore1/7868
-#EXTINF:-1,ES : Energy FM
-http://king-box.club:80/bmoore1/bmoore1/70395
-#EXTINF:-1,ES : Europa FM Tenerife
-http://king-box.club:80/bmoore1/bmoore1/70394
-#EXTINF:-1,ES : Los 40 Principales
-http://king-box.club:80/bmoore1/bmoore1/70392
-#EXTINF:-1,ES : Mataró Ràdio
-http://king-box.club:80/bmoore1/bmoore1/70391
-#EXTINF:-1,ES : Oasis FM
-http://king-box.club:80/bmoore1/bmoore1/70390
-#EXTINF:-1,ES : Street 63 Radio
-http://king-box.club:80/bmoore1/bmoore1/70349
-#EXTINF:-1,ES : Xtra Musica
-http://king-box.club:80/bmoore1/bmoore1/70348
-#EXTINF:-1,ES: Flaix FM
-http://king-box.club:80/bmoore1/bmoore1/92272
-#EXTINF:-1,ES: Oasis FM
-http://king-box.club:80/bmoore1/bmoore1/110444
-#EXTINF:-1,ES: Reef FM Tenerife
-http://king-box.club:80/bmoore1/bmoore1/110447
-#EXTINF:-1,ES: Spectrum FM Tenerife
-http://king-box.club:80/bmoore1/bmoore1/110446
-#EXTINF:-1,ES: X-Pat Radio One
-http://king-box.club:80/bmoore1/bmoore1/110449
-#EXTINF:-1,ES: X-Pat Radio Two
-http://king-box.club:80/bmoore1/bmoore1/110448
+http://config.streamstv.me:8080/Gandalf/gandalf/26412
+#EXTINF:-1,ES: Boing
+http://config.streamstv.me:8080/Gandalf/gandalf/26411
+#EXTINF:-1,ES: MoviStar+ Acción
+http://config.streamstv.me:8080/Gandalf/gandalf/26409
+#EXTINF:-1,ES: MoviStar Cine Ñ
+http://config.streamstv.me:8080/Gandalf/gandalf/26337
+#EXTINF:-1,ES: MoviStar Estrenos HD
+http://config.streamstv.me:8080/Gandalf/gandalf/26334
+#EXTINF:-1,ES: MoviStar+ Series
+http://config.streamstv.me:8080/Gandalf/gandalf/26410
+#EXTINF:-1,ES: MoviStar Series FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26329
+#EXTINF:-1,ES: MoviStar Series Xtra
+http://config.streamstv.me:8080/Gandalf/gandalf/26328
+#EXTINF:-1,ES: Movistar Cine Doc & Roll
+http://config.streamstv.me:8080/Gandalf/gandalf/26326
+#EXTINF:-1,ES: MoviStar Comedia
+http://config.streamstv.me:8080/Gandalf/gandalf/26324
+#EXTINF:-1,ES: MoviStar Formula 1 HD
+http://config.streamstv.me:8080/Gandalf/gandalf/26340
+#EXTINF:-1,ES: MoviStar Formula 1
+http://config.streamstv.me:8080/Gandalf/gandalf/26333
+#EXTINF:-1,ES: Movistar Deportes 1
+http://config.streamstv.me:8080/Gandalf/gandalf/26325
+#EXTINF:-1,ES: Calle 13 FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26403
+#EXTINF:-1,ES: Calle 13 HD
+http://config.streamstv.me:8080/Gandalf/gandalf/26402
+#EXTINF:-1,ES: Canal Cocina
+http://config.streamstv.me:8080/Gandalf/gandalf/26401
+#EXTINF:-1,ES: Canal Decasa
+http://config.streamstv.me:8080/Gandalf/gandalf/26400
+#EXTINF:-1,ES: Canal Panda
+http://config.streamstv.me:8080/Gandalf/gandalf/26398
+#EXTINF:-1,ES: Canal SUR Andalucia
+http://config.streamstv.me:8080/Gandalf/gandalf/26397
+#EXTINF:-1,ES: Caza Y Pesca
+http://config.streamstv.me:8080/Gandalf/gandalf/26396
+#EXTINF:-1,ES: Caza Y Pesca FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26395
+#EXTINF:-1,ES: Clan TVE
+http://config.streamstv.me:8080/Gandalf/gandalf/26394
+#EXTINF:-1,ES: Classica
+http://config.streamstv.me:8080/Gandalf/gandalf/26393
+#EXTINF:-1,ES: Comedy Central HD
+http://config.streamstv.me:8080/Gandalf/gandalf/26392
+#EXTINF:-1,ES: Comedy Central
+http://config.streamstv.me:8080/Gandalf/gandalf/26391
+#EXTINF:-1,ES: Cosmopolitan FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26390
+#EXTINF:-1,ES: Cosmopolitan HD
+http://config.streamstv.me:8080/Gandalf/gandalf/26389
+#EXTINF:-1,ES: Crime + investi gation
+http://config.streamstv.me:8080/Gandalf/gandalf/26388
+#EXTINF:-1,ES: DKiss
+http://config.streamstv.me:8080/Gandalf/gandalf/26385
+#EXTINF:-1,ES: Discovery Channel
+http://config.streamstv.me:8080/Gandalf/gandalf/26384
+#EXTINF:-1,ES: Historia
+http://config.streamstv.me:8080/Gandalf/gandalf/26362
+#EXTINF:-1,ES: Disney Channel FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26381
+#EXTINF:-1,ES: Disney Junior
+http://config.streamstv.me:8080/Gandalf/gandalf/26380
+#EXTINF:-1,ES: Disney XD
+http://config.streamstv.me:8080/Gandalf/gandalf/26379
+#EXTINF:-1,ES: Energy
+http://config.streamstv.me:8080/Gandalf/gandalf/26378
+#EXTINF:-1,ES: FDF
+http://config.streamstv.me:8080/Gandalf/gandalf/26371
+#EXTINF:-1,ES: FOX Life
+http://config.streamstv.me:8080/Gandalf/gandalf/26370
+#EXTINF:-1,ES: Fox
+http://config.streamstv.me:8080/Gandalf/gandalf/26369
+#EXTINF:-1,ES: Fox HD
+http://config.streamstv.me:8080/Gandalf/gandalf/26368
+#EXTINF:-1,ES: Fox Life HD
+http://config.streamstv.me:8080/Gandalf/gandalf/26367
+#EXTINF:-1,ES: Galicia TV
+http://config.streamstv.me:8080/Gandalf/gandalf/26365
+#EXTINF:-1,ES: Hollywood
+http://config.streamstv.me:8080/Gandalf/gandalf/26360
+#EXTINF:-1,ES: Hollywood FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26359
+#EXTINF:-1,ES: Iberalia TV
+http://config.streamstv.me:8080/Gandalf/gandalf/26358
+#EXTINF:-1,ES: La Sexta
+http://config.streamstv.me:8080/Gandalf/gandalf/26353
+#EXTINF:-1,ES: Levante TV
+http://config.streamstv.me:8080/Gandalf/gandalf/26349
+#EXTINF:-1,ES: MTV
+http://config.streamstv.me:8080/Gandalf/gandalf/26344
+#EXTINF:-1,ES: Mega
+http://config.streamstv.me:8080/Gandalf/gandalf/26342
+#EXTINF:-1,ES: Mezzo Live FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26341
+#EXTINF:-1,ES: National Geographic
+http://config.streamstv.me:8080/Gandalf/gandalf/26319
+#EXTINF:-1,ES: National Geographic FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26318
+#EXTINF:-1,ES: Nat Geo Wild
+http://config.streamstv.me:8080/Gandalf/gandalf/26317
+#EXTINF:-1,ES: Nat Geo Wild FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26316
+#EXTINF:-1,ES: Neox
+http://config.streamstv.me:8080/Gandalf/gandalf/26315
+#EXTINF:-1,ES: Nick Jr.
+http://config.streamstv.me:8080/Gandalf/gandalf/26314
+#EXTINF:-1,ES: Nickelodeon FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26313
+#EXTINF:-1,ES: Nickelodeon
+http://config.streamstv.me:8080/Gandalf/gandalf/26312
+#EXTINF:-1,ES: Nova
+http://config.streamstv.me:8080/Gandalf/gandalf/26310
+#EXTINF:-1,ES: Odisea
+http://config.streamstv.me:8080/Gandalf/gandalf/26309
+#EXTINF:-1,ES: Sundance TV
+http://config.streamstv.me:8080/Gandalf/gandalf/26306
+#EXTINF:-1,ES: SyFy FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26305
+#EXTINF:-1,ES: SyFy
+http://config.streamstv.me:8080/Gandalf/gandalf/26304
+#EXTINF:-1,ES: TCM
+http://config.streamstv.me:8080/Gandalf/gandalf/26303
+#EXTINF:-1,ES: TCM FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26302
+#EXTINF:-1,ES: TNT
+http://config.streamstv.me:8080/Gandalf/gandalf/26301
+#EXTINF:-1,ES: TNT FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26300
+#EXTINF:-1,ES: TV3 FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26299
+#EXTINF:-1,ES: TV3 Cat
+http://config.streamstv.me:8080/Gandalf/gandalf/26298
+#EXTINF:-1,ES: TVE Internacional
+http://config.streamstv.me:8080/Gandalf/gandalf/26296
+#EXTINF:-1,ES: Toros TV
+http://config.streamstv.me:8080/Gandalf/gandalf/26279
+#EXTINF:-1,ES: VH1
+http://config.streamstv.me:8080/Gandalf/gandalf/26278
+#EXTINF:-1,ES: Viajar
+http://config.streamstv.me:8080/Gandalf/gandalf/26277
+#EXTINF:-1,ES: Viajar HD
+http://config.streamstv.me:8080/Gandalf/gandalf/26276
+#EXTINF:-1,ES: XTRM FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26275
+#EXTINF:-1,ES: A3 SERIE FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26274
+#EXTINF:-1,ES: Fox News
+http://config.streamstv.me:8080/Gandalf/gandalf/26366
+#EXTINF:-1,ES: EuroSport 1
+http://config.streamstv.me:8080/Gandalf/gandalf/26375
+#EXTINF:-1,ES: Eurosport 2
+http://config.streamstv.me:8080/Gandalf/gandalf/26373
+#EXTINF:-1,ES: Olympic Channel HD
+http://config.streamstv.me:8080/Gandalf/gandalf/26308
+#EXTINF:-1,ES: Real Madrid TV
+http://config.streamstv.me:8080/Gandalf/gandalf/26307
+#EXTINF:-1,ES: beINSPORTS Laliga
+http://config.streamstv.me:8080/Gandalf/gandalf/26272
+#EXTINF:-1,ES: beIN Sports FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26271
+#EXTINF:-1,ES: beINSports LaLiga FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/26269
+#EXTINF:-1,ES: bein Sports
+http://config.streamstv.me:8080/Gandalf/gandalf/26268
+#EXTINF:-1,ES: Vamos
+http://config.streamstv.me:8080/Gandalf/gandalf/81945
+#EXTINF:-1,ES: Taquilla 1
+http://config.streamstv.me:8080/Gandalf/gandalf/26295
+#EXTINF:-1,ES: Taquilla 2
+http://config.streamstv.me:8080/Gandalf/gandalf/26290
+#EXTINF:-1,ES: Taquilla 3
+http://config.streamstv.me:8080/Gandalf/gandalf/26289
+#EXTINF:-1,ES: Taquilla 4
+http://config.streamstv.me:8080/Gandalf/gandalf/26288
+#EXTINF:-1,ES: Taquilla 5
+http://config.streamstv.me:8080/Gandalf/gandalf/26287
+#EXTINF:-1,ES: Taquilla 6
+http://config.streamstv.me:8080/Gandalf/gandalf/26286
+#EXTINF:-1,ES: Taquilla 7
+http://config.streamstv.me:8080/Gandalf/gandalf/26285
+#EXTINF:-1,ES: Taquilla 8
+http://config.streamstv.me:8080/Gandalf/gandalf/26284
+#EXTINF:-1,ES: Taquilla 9
+http://config.streamstv.me:8080/Gandalf/gandalf/26283
+#EXTINF:-1,ES: #0
+http://config.streamstv.me:8080/Gandalf/gandalf/48565
+#EXTINF:-1,ES: AMC HD
+http://config.streamstv.me:8080/Gandalf/gandalf/48592
+#EXTINF:-1,ES: AXN FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/48572
+#EXTINF:-1,ES: Calle 13
+http://config.streamstv.me:8080/Gandalf/gandalf/48566
+#EXTINF:-1,ES: Canal 24 Horas
+http://config.streamstv.me:8080/Gandalf/gandalf/48591
+#EXTINF:-1,ES: Canal 3/24
+http://config.streamstv.me:8080/Gandalf/gandalf/48593
+#EXTINF:-1,ES: Canal Orbe 21
+http://config.streamstv.me:8080/Gandalf/gandalf/48575
+#EXTINF:-1,ES: Comedy Central FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/48576
+#EXTINF:-1,ES: Disney Channel
+http://config.streamstv.me:8080/Gandalf/gandalf/48577
+#EXTINF:-1,ES: Esperanza TV
+http://config.streamstv.me:8080/Gandalf/gandalf/48578
+#EXTINF:-1,ES: Fox FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/48580
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://config.streamstv.me:8080/Gandalf/gandalf/40580
+#EXTINF:-1,ES: Movistar DCine FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/48583
+#EXTINF:-1,ES: Movistar Deportes 2
+http://config.streamstv.me:8080/Gandalf/gandalf/48573
+#EXTINF:-1,ES: MoviStar Estrenos FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/48585
+#EXTINF:-1,ES: MoviStar Formula 1 FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/48586
+#EXTINF:-1,ES: MoviStar Futbol FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/48584
+#EXTINF:-1,ES: MoviStar Golf FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/48581
+#EXTINF:-1,ES: MoviStar+ Acción FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/48582
+#EXTINF:-1,ES: Paramount Channel
+http://config.streamstv.me:8080/Gandalf/gandalf/48594
+#EXTINF:-1,ES: Toros TV FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/48590
+#EXTINF:-1,ES: Movistar Liga de Campeones
+http://config.streamstv.me:8080/Gandalf/gandalf/50193
+#EXTINF:-1,ES: Teledeporte
+http://config.streamstv.me:8080/Gandalf/gandalf/50287
+#EXTINF:-1,ES: DAZN Espana HD  (Only During Events )
+http://config.streamstv.me:8080/Gandalf/gandalf/68362
+#EXTINF:-1,ES: LaLiga TV Bar
+http://config.streamstv.me:8080/Gandalf/gandalf/26351
+#EXTINF:-1,ES: LaLigaTV HD
+http://config.streamstv.me:8080/Gandalf/gandalf/26350
+#EXTINF:-1,ES: Gol TV
+http://config.streamstv.me:8080/Gandalf/gandalf/26364
+#EXTINF:-1,ES: TV GALICIA
+http://config.streamstv.me:8080/Gandalf/gandalf/73335
+#EXTINF:-1,ES: Canal Extremadura
+http://config.streamstv.me:8080/Gandalf/gandalf/103119
+#EXTINF:-1,ES: DAZN 2 Espana HD  (Only During Events )
+http://config.streamstv.me:8080/Gandalf/gandalf/102439
+#EXTINF:-1,VIP ES: MoviStar LA LIGA FHD
+http://config.streamstv.me:8080/Gandalf/gandalf/107210
+#EXTINF:-1,VIP ES: MoviStar LA LIGA 1 FHD [Live During Events Only]
+http://config.streamstv.me:8080/Gandalf/gandalf/107211
+#EXTINF:-1,ES: MoviStar LA LIGA 2 FHD [Live During Events Only]
+http://config.streamstv.me:8080/Gandalf/gandalf/107212
+#EXTINF:-1,VIP ES: MoviStar LA LIGA 3 FHD [Live During Events Only]
+http://config.streamstv.me:8080/Gandalf/gandalf/107213
+#EXTINF:-1,VIP ES: MoviStar LA LIGA 4 FHD [Live During Events Only]
+http://config.streamstv.me:8080/Gandalf/gandalf/107214
