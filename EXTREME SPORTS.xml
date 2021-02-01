@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,RO: Extreme Sports Channel
 http://listamy.com:8080/juliof/juliof/355613
-#EXTINF:-1,US: Showtime Extreme FHD
-http://listamy.com:8080/juliof/juliof/328454
+#EXTINF:-1 tvg-id="" tvg-name="EXTREME SPORTS CHANNEL "looney"" tvg-logo="https://seeklogo.com/images/E/extreme_sports_chanel-logo-7387DEF1AD-seeklogo.com.png" group-title="Portugal",EXTREME SPORTS CHANNEL "looney"
+http://supertv.live:80/IotrDVkvNG/uPN6BED9Ga/30576
 #EXTINF:-1,Nl- Extreme Sports
 http://listamy.com:8080/juliof/juliof/305576
 #EXTINF:-1,RU: eXtreme Sports
