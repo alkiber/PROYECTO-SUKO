@@ -97,10 +97,6 @@
 
 
 
-
-
-
- 
  <item>
 <title>SERVER 1</title>
 <thumbnail></thumbnail>
@@ -108,7 +104,6 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-SUKO/master/SERVER%201.xml</externallink>
 </item>
- 
  
  
 
@@ -119,7 +114,6 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-SUKO/master/SERVER%202.xml</externallink>
 </item>
-
 
 
 
@@ -144,8 +138,6 @@
 </item>
 
  
-
-
 
 <item>
 <title>SERVER 5</title>
